@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Nikhil Kadam </font></h1>
-<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/nrk1699" target="_blank" rel="noreferrer">Nikhil</a> is a passionate DevOps Engineer from India. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nrk1699/" target="_blank" rel="noreferrer">Nikhil</a> is a passionate DevOps Engineer from India. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[nikhil46kadam@gmail.com](mailto:nikhil46kadam@gmail.com)**
-- <p align="left"> <a href="https://linkedin.com/in/nrk1699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nrk1699" height="30" width="40" /></a> </p>
+- <p align="left"> <a href="https://www.linkedin.com/in/nrk1699/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nrk1699" height="30" width="40" /></a> </p>
        
 
 
